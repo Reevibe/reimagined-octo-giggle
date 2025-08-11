@@ -2,4 +2,11 @@
 **Before:** "Welcom to our project repository"
 **After:** "Welcome to our project repository"
 ## Contributing
-We welcome contributions! Please fork this repository and submit a pull request with your changes.
+
+We welcome contributions of all kinds!  
+If you spot a typo, find a bug, or have an idea for improvement:  
+1. Fork this repository  
+2. Make your changes  
+3. Open a pull request  
+
+Your help makes this project better for everyone. 🚀
