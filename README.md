@@ -10,3 +10,5 @@ If you spot a typo, find a bug, or have an idea for improvement:
 3. Open a pull request  
 
 Your help makes this project better for everyone. 🚀
+Add test file
+run it
